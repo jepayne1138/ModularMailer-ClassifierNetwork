@@ -1,0 +1,9 @@
+ACTIVATION = 'softmax'
+DROPOUT = 0.5
+LOSS = 'categorical_crossentropy'
+LEARNING_RATE = 0.01
+MOMENTUM = 0.8
+DECAY = 0.0
+EPOCH = 1000
+VALIDATION_SPLIT = 0.1
+VERBOSE = 1
